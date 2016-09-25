@@ -1,0 +1,7 @@
+00:00:00 - 00:12:03 = unclassified
+00:12:03 - 00:12:47 = ad by bmw
+00:12:47 - 00:23:50 = unclassified
+00:23:50 - 00:24:29 = ad by bajaj discover
+00:24:29 - 00:34:00 = unclassified
+00:34:00 - 00:34:30 = ad by airtel
+00:34:30 - 00:44:36 = unclassified

@@ -1,0 +1,9 @@
+1. To run the code go to Advertisement/start/ then,
+   python main.py --train
+   
+2.Make sure that the required data present in Advertisement/trainData
+
+IMPORTANT:before reading this file Read completely the e-mail description sent with this code
+To work on above steps u need training data which is not included with this code
+
+

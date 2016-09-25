@@ -1,0 +1,8 @@
+def reGenarate(fname):
+    with open(DBNAME) as f:
+        lines = f.readlines()
+        
+        add_names = [line.split(',')[0] for line in lines[1:]]
+            
+            
+            self.add_names = [line.split(',')[0] for line in lines[1:]] 

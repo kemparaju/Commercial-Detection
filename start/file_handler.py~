@@ -1,0 +1,22 @@
+class getDuration(object):
+
+    """takes label_file , output_file as input and generates corresponding parameters """
+
+    def __init__(self , input_file=None , output_file=None):
+        self.fname = input_file
+        self.nfile = output_file
+        self.write_count = 0
+
+
+    def readLabels(self):
+        with open(self.fname) as fd:
+            for line in fd:
+                if len(line) == 0:
+                    break
+                line = [line.strip() for line in line.split("=")]
+                time = [i.strip() for i in line[0].split('-')]
+
+                name = line[-1].strip()
+
+                yield [time[0] , time[1] , name]
+                

@@ -1,0 +1,4 @@
+00:00:00 - 00:12:03 = not recognized
+00:12:47 - 00:23:50 = not recognized
+00:24:29 - 00:34:02 = not recognized
+00:34:30 - 00:44:36 = not recognized
